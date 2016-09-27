@@ -1,0 +1,138 @@
+ [
+  {
+  "State" : "Louisiana",
+  "Cities" : [
+              {
+              "Name" : "New Orleans",
+              "Longitude" : -90.0715323,
+              "Latitude" : 29.9510658,
+              "Image" : "neworleans",
+              "Annotation" : "Bourbon Street"
+              },
+              {
+              "Name" : "Baton Rouge",
+              "Longitude" : -91.1403196,
+              "Latitude" : 30.4582829,
+              "Image" : "batonrouge",
+              "Annotation" : "Home of LSU"
+              }
+              ]
+  },
+  {
+  "State" : "District of Columbia",
+  "Cities" : [
+              {
+              "Name" : "Washington DC",
+              "Longitude" : -77.03687069999999,
+              "Latitude" : 38.9071923,
+              "Image" : "washingtondc",
+              "Annotation" : "Our Nation's Capital"
+              }
+              ]
+  },
+  {
+  "State" : "Florida",
+  "Cities" : [
+              {
+              "Name" : "Fort Lauderdale",
+              "Longitude" : -80.1373174,
+              "Latitude" : 26.1224386,
+              "Image" : "fortlauderdale",
+              "Annotation" : "Spring Break!!"
+              }
+              ]
+  },
+  {
+  "State" : "Georgia",
+  "Cities" : [
+              {
+              "Name" : "Atlanta",
+              "Longitude" : -84.3879824,
+              "Latitude" : 33.7489954,
+              "Image" : "atlanta",
+              "Annotation" : "Coke-Cola and Dirty Birds"
+              }
+              ]
+  },
+  {
+  "State" : "Colorado",
+  "Cities" : [
+              {
+              "Name" : "Durango",
+              "Longitude" : -107.8800667,
+              "Latitude" : 37.27528,
+              "Image" : "durango",
+              "Annotation" : "Snowdown Days"
+              },
+              {
+              "Name" : "Denver",
+              "Longitude" : -104.990251,
+              "Latitude" : 39.7392358,
+              "Image" : "denver",
+              "Annotation" : "Green Sky"
+              }
+              ]
+  },
+  {
+  "State" : "Utah",
+  "Cities" : [
+              {
+              "Name" : "Salt Lake City",
+              "Longitude" : -111.8910474,
+              "Latitude" : 40.7607793,
+              "Image" : "saltlakecity",
+              "Annotation" : "Home of Inversion"
+              }
+              ]
+  },
+  {
+  "State" : "New York",
+  "Cities" : [
+              {
+              "Name" : "New York City",
+              "Longitude" : -74.0059413,
+              "Latitude" : 40.7127837,
+              "Image" : "newyourcity",
+              "Annotation" : "New York State of Mind"
+              }
+              ]
+  },
+  {
+  "State" : "California",
+  "Cities" : [
+              {
+              "Name" : "San Francisco",
+              "Longitude" : -122.4194155,
+              "Latitude" : 37.7749295,
+              "Image" : "sanfrancisco",
+              "Annotation" : "EARTHQUAKE!!"
+              },
+              {
+              "Name" : "Los Angeles",
+              "Longitude" : -118.2436849,
+              "Latitude" : 34.0522342,
+              "Image" : "losangeles",
+              "Annotation" : "Lots of cars here"
+              },
+              {
+              "Name" : "Irvine",
+              "Longitude" : -117.7946942,
+              "Latitude" : 33.6839473,
+              "Image" : "irvine",
+              "Annotation" : "Board Housewives"
+              }
+              ]
+  },
+  {
+  "State" : "Texas",
+  "Cities" : [
+              {
+              "Name" : "San Antonio",
+              "Longitude" : -98.4936282,
+              "Latitude" : 29.4241219,
+              "Image" : "sanantonio",
+              "Annotation" : "Remember the Alamo!"
+              }
+              ]
+  }
+  ]
